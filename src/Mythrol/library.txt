@@ -1,0 +1,5 @@
+you know what? here - take my credits, buy yourself a drink
+
+Karga instrcuted me to be libp2p implementation - then he'll cu 100 years of my sentence
+  either - perferred - a layer above jvm-libp2
+  or - from scratch - i'm not afraid of a challenge
